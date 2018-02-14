@@ -198,12 +198,18 @@ html {
   text-rendering: optimizeLegibility;
 }
 
+body {
+	font-family: Garamond, ‘Hoefler Text’, ‘Times New Roman’, serif;
+	padding: 20px;
+	background-color: #d0d8e5;	
+	
+}
+h1 {
+	font-weight: bold;
+	margin-bottom: 25px;
+}
+
+
 label {
   display: block;
 }
-
-/* ===== LAYOUT STYLES ====== */
-
-/* ===== MODULAR STYLES ===== */
-
-/* ===== STATE STYLES ======= */
